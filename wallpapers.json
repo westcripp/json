@@ -23,11 +23,19 @@
   ],
   "Wallpapers": [
      {
+      "name": "Wood",
+      "author": "IbrahiM10",
+      "url": "https://raw.githubusercontent.com/DivineForce/wallpapers/master/tttt.jpg",
+      "dimensions": "2960x1973",
+      "collections": "featured,landscapes",
+      "downloadable": false
+    },
+     {
       "name": "Illusion",
       "author": "IbrahiM10",
       "url": "https://raw.githubusercontent.com/DivineForce/wallpapers/master/world2.jpg",
       "dimensions": "2960x1973",
-      "collections": "featured,landscapes",
+      "collections": "featured,landscapes,People",
       "downloadable": false
     },
       {
