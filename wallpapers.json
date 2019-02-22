@@ -22,6 +22,33 @@
     }
   ],
   "Wallpapers": [
+      {
+    "name": "Rose 1",
+      "author": "Alexandru Acea",
+      "url": "https://raw.githubusercontent.com/DivineForce/wallpapers/master/alexandru-acea-421557-unsplash.jpg",
+      "dimensions": "3876x2180",
+      "copyright": "Credits to its creator",
+      "collections": "featured,Amoled",
+      "downloadable": false
+     },
+     {
+      "name": "Rose 2",
+      "author": "Alexandru Acea",
+      "url": "https://raw.githubusercontent.com/DivineForce/wallpapers/master/alexandru-acea-340695-unsplash.jpg",
+      "dimensions": "3876x2180",
+      "copyright": "Credits to its creator",
+      "collections": "featured,Amoled",
+      "downloadable": false
+     },
+     {
+     "name": "Rose 3",
+      "author": "Alexandru Acea",
+      "url": "https://raw.githubusercontent.com/DivineForce/wallpapers/master/alexandru-acea-340692-unsplash.jpg",
+      "dimensions": "3876x2180",
+      "copyright": "Credits to its creator",
+      "collections": "featured,Amoled",
+      "downloadable": false
+     },
      {
       "name": "Wood",
       "author": "IbrahiM10",
@@ -30,7 +57,7 @@
       "collections": "featured,landscapes",
       "downloadable": false
     },
-     {
+    {
       "name": "Illusion",
       "author": "IbrahiM10",
       "url": "https://raw.githubusercontent.com/DivineForce/wallpapers/master/world2.jpg",
@@ -38,7 +65,7 @@
       "collections": "featured,landscapes,People",
       "downloadable": false
     },
-      {
+    {
       "name": "Lantern",
       "author": "IbrahiM10",
       "url": "https://raw.githubusercontent.com/DivineForce/wallpapers/master/lantern.jpg",
